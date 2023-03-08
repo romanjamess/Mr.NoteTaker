@@ -25,6 +25,9 @@
   <li>you should now see the application </li>
   </ul>
   
+   ## link
+  http://localhost:3002/
+  
   ## Screenshot
   ![image](https://user-images.githubusercontent.com/118143164/223844474-7620b433-a320-466c-8312-4a893c6a3f23.png)
   ![image](https://user-images.githubusercontent.com/118143164/223844627-7f025656-3e03-4680-b21c-6ec691d9f84e.png)
@@ -42,8 +45,4 @@
 
   if you have any questions about the repository email;
   jamesrtx2@gmail.com 
-  
-  ## link
-  http://localhost:3002/
-  
   
