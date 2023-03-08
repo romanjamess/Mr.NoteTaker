@@ -1,0 +1,11 @@
+[
+    {
+        "title": "test note",
+        "text": "this is a test"
+    },
+    {
+        "title": "hello",
+        "text": "hello\nblah blah blah\n",
+        "id": "bfbf"
+    }
+]
